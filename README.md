@@ -7,3 +7,5 @@ This is where I will link all my small projects for easy find. Also most these c
 
 
 [Scroll Animation](https://github.com/Vent2/scrollAnimation.git)
+
+[Name Animation](https://github.com/Vent2/myNameAnimation.git)
